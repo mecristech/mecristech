@@ -49,11 +49,9 @@
     <text x="236" y="182" fill="#7a7f99">$</text>
     <text x="248" y="182" fill="#c9d1d9">cat now.md</text>
     <text x="110" y="204" fill="#fcd34d">## fun facts</text>
-    <text x="110" y="224" fill="#c9d1d9">- spec-driven development with AI coding agents</text>
-    <text x="110" y="242" fill="#c9d1d9">- designing platforms for faster, safer deploys</text>
-    <text x="110" y="260" fill="#c9d1d9">- cloud and platform work, mostly on Azure</text>
-    <text x="110" y="278" fill="#c9d1d9">- big on observability: logs, traces, useful alerts</text>
-    <text x="110" y="296" fill="#c9d1d9">- happiest when the deploy is boring</text>
+    <text x="110" y="224" fill="#c9d1d9">- designing platforms for faster, safer deploys</text>
+    <text x="110" y="242" fill="#c9d1d9">- cloud and platform work, mostly on Azure</text>
+    <text x="110" y="260" fill="#c9d1d9">- happiest when the deploy is boring</text>
 
     <!-- Prompt 3 -->
     <text x="110" y="290" fill="#a78bfa">me@cris.tech</text>
