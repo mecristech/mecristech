@@ -61,7 +61,7 @@
     <text x="248" y="290" fill="#c9d1d9">contact --all</text>
     <text x="110" y="312" fill="#58a6ff">→ cris.tech</text>
     <text x="220" y="312" fill="#58a6ff">in/cristianfdez</text>
-    <text x="320" y="312" fill="#58a6ff">me@cris.tech</text>
+    <text x="380" y="312" fill="#58a6ff">me@cris.tech</text>
 
     <!-- Final prompt with cursor -->
     <text x="110" y="342" fill="#a78bfa">me@cris.tech</text>
